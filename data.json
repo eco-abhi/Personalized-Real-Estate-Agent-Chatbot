@@ -1,0 +1,262 @@
+[
+    {
+        "ID": 1,
+        "Neighborhood": "Green Oaks",
+        "Price": "$800,000",
+        "Bedrooms": 3,
+        "Bathrooms": 2,
+        "House Size": "2,000 sqft",
+        "Description": "Welcome to this eco-friendly oasis nestled in the heart of Green Oaks. This charming 3-bedroom, 2-bathroom home boasts energy-efficient features such as solar panels and a well-insulated structure. Natural light floods the living spaces, highlighting the beautiful hardwood floors and eco-conscious finishes. The open-concept kitchen and dining area lead to a spacious backyard with a vegetable garden, perfect for the eco-conscious family. Embrace sustainable living without compromising on style in this Green Oaks gem.",
+        "Neighborhood Description": "Green Oaks is a close-knit, environmentally-conscious community with access to organic grocery stores, community gardens, and bike paths. Take a stroll through the nearby Green Oaks Park or grab a cup of coffee at the cozy Green Bean Cafe. With easy access to public transportation and bike lanes, commuting is a breeze."
+    },
+    {
+        "ID": 2,
+        "Neighborhood": "Maplewood",
+        "Price": "$650,000",
+        "Bedrooms": 4,
+        "Bathrooms": 3,
+        "House Size": "2,500 sqft",
+        "Description": "Discover modern living in Maplewood with this spacious 4-bedroom, 3-bathroom home. Featuring a contemporary design with sleek finishes, this home offers an open floor plan, a gourmet kitchen with stainless steel appliances, and a master suite with a walk-in closet. The backyard includes a patio perfect for outdoor dining and entertainment.",
+        "Neighborhood Description": "Maplewood is a vibrant community with excellent schools, parks, and a variety of dining options. Enjoy the Maplewood Farmers' Market on weekends and explore the scenic Maplewood Trail. Convenient access to major highways makes commuting to the city effortless."
+    },
+    {
+        "ID": 3,
+        "Neighborhood": "Riverdale",
+        "Price": "$900,000",
+        "Bedrooms": 5,
+        "Bathrooms": 4,
+        "House Size": "3,000 sqft",
+        "Description": "This luxurious 5-bedroom, 4-bathroom home in Riverdale offers elegance and comfort. With high ceilings, large windows, and a grand staircase, this home is perfect for entertaining. The kitchen features granite countertops and a central island, while the master suite includes a spa-like bathroom and a private balcony.",
+        "Neighborhood Description": "Riverdale is known for its picturesque views and family-friendly atmosphere. The Riverdale Park offers outdoor activities for all ages, and the local community center hosts various events throughout the year. Excellent schools and a strong sense of community make Riverdale a sought-after neighborhood."
+    },
+    {
+        "ID": 4,
+        "Neighborhood": "Pine Valley",
+        "Price": "$750,000",
+        "Bedrooms": 4,
+        "Bathrooms": 3.5,
+        "House Size": "2,800 sqft",
+        "Description": "Step into luxury with this beautiful 4-bedroom, 3.5-bathroom home in Pine Valley. Features include a formal dining room, a cozy family room with a fireplace, and a chef's kitchen with custom cabinetry. The landscaped backyard with a pool is ideal for summer gatherings.",
+        "Neighborhood Description": "Pine Valley offers a suburban retreat with top-rated schools and abundant green spaces. Residents enjoy access to Pine Valley Golf Course and Pine Valley Shopping Center. The community is known for its peaceful streets and friendly neighbors."
+    },
+    {
+        "ID": 5,
+        "Neighborhood": "Lakeview",
+        "Price": "$1,200,000",
+        "Bedrooms": 6,
+        "Bathrooms": 5,
+        "House Size": "4,000 sqft",
+        "Description": "Experience waterfront living in this stunning 6-bedroom, 5-bathroom home in Lakeview. With panoramic lake views, this home features an open floor plan, a gourmet kitchen, and a luxurious master suite. The expansive deck and private dock are perfect for enjoying the serene lake environment.",
+        "Neighborhood Description": "Lakeview is a prestigious community with exclusive lake access, excellent schools, and upscale amenities. Enjoy boating, fishing, and lakeside picnics, or dine at one of the many waterfront restaurants. Lakeview offers a perfect blend of luxury and tranquility."
+    },
+    {
+        "ID": 6,
+        "Neighborhood": "Sunnydale",
+        "Price": "$500,000",
+        "Bedrooms": 3,
+        "Bathrooms": 2.5,
+        "House Size": "1,800 sqft",
+        "Description": "This charming 3-bedroom, 2.5-bathroom home in Sunnydale is perfect for a growing family. The open floor plan includes a spacious living room, a modern kitchen with quartz countertops, and a master suite with a walk-in closet. The fenced backyard is ideal for children and pets.",
+        "Neighborhood Description": "Sunnydale is a welcoming community with excellent schools, parks, and family-friendly activities. Enjoy the Sunnydale Community Center, which offers sports programs and classes for all ages. Convenient access to shopping and dining makes Sunnydale a desirable place to live."
+    },
+    {
+        "ID": 7,
+        "Neighborhood": "Crestwood",
+        "Price": "$820,000",
+        "Bedrooms": 4,
+        "Bathrooms": 3,
+        "House Size": "2,400 sqft",
+        "Description": "Welcome to this stylish 4-bedroom, 3-bathroom home in Crestwood. Features include a spacious living area, a modern kitchen with high-end appliances, and a master suite with a luxurious en-suite bathroom. The backyard patio is perfect for outdoor entertaining.",
+        "Neighborhood Description": "Crestwood is a vibrant community with excellent schools, parks, and a variety of dining options. Enjoy the Crestwood Farmers' Market on weekends and explore the scenic Crestwood Trail. Convenient access to major highways makes commuting to the city effortless."
+    },
+    {
+        "ID": 8,
+        "Neighborhood": "Willowbrook",
+        "Price": "$680,000",
+        "Bedrooms": 3,
+        "Bathrooms": 2.5,
+        "House Size": "2,100 sqft",
+        "Description": "Discover this beautiful 3-bedroom, 2.5-bathroom home in Willowbrook. With an open floor plan, a gourmet kitchen, and a master suite with a spa-like bathroom, this home is perfect for modern living. The backyard features a patio and lush landscaping.",
+        "Neighborhood Description": "Willowbrook is known for its excellent schools, parks, and community activities. Residents enjoy access to Willowbrook Park, which offers outdoor activities for all ages. The local community center hosts various events throughout the year, making Willowbrook a great place to live."
+    },
+    {
+        "ID": 9,
+        "Neighborhood": "Stonebridge",
+        "Price": "$750,000",
+        "Bedrooms": 4,
+        "Bathrooms": 3.5,
+        "House Size": "2,900 sqft",
+        "Description": "This elegant 4-bedroom, 3.5-bathroom home in Stonebridge offers luxury and comfort. With high ceilings, large windows, and a grand staircase, this home is perfect for entertaining. The kitchen features granite countertops and a central island, while the master suite includes a spa-like bathroom and a private balcony.",
+        "Neighborhood Description": "Stonebridge is a prestigious community with exclusive amenities and excellent schools. Enjoy the Stonebridge Country Club and the scenic Stonebridge Trail. The community is known for its peaceful streets and friendly neighbors."
+    },
+    {
+        "ID": 10,
+        "Neighborhood": "Brookside",
+        "Price": "$720,000",
+        "Bedrooms": 4,
+        "Bathrooms": 3,
+        "House Size": "2,600 sqft",
+        "Description": "Welcome to this modern 4-bedroom, 3-bathroom home in Brookside. Featuring a contemporary design with sleek finishes, this home offers an open floor plan, a gourmet kitchen with stainless steel appliances, and a master suite with a walk-in closet. The backyard includes a patio perfect for outdoor dining and entertainment.",
+        "Neighborhood Description": "Brookside is a vibrant community with excellent schools, parks, and a variety of dining options. Enjoy the Brookside Farmers' Market on weekends and explore the scenic Brookside Trail. Convenient access to major highways makes commuting to the city effortless."
+    },
+    {
+        "ID": 11,
+        "Neighborhood": "Fairview",
+        "Price": "$580,000",
+        "Bedrooms": 3,
+        "Bathrooms": 2,
+        "House Size": "2,000 sqft",
+        "Description": "Discover this charming 3-bedroom, 2-bathroom home in Fairview. With an open floor plan, a modern kitchen, and a master suite with a walk-in closet, this home is perfect for modern living. The backyard features a patio and lush landscaping.",
+        "Neighborhood Description": "Fairview is a welcoming community with excellent schools, parks, and family-friendly activities. Enjoy the Fairview Community Center, which offers sports programs and classes for all ages. Convenient access to shopping and dining makes Fairview a desirable place to live."
+    },
+    {
+        "ID": 12,
+        "Neighborhood": "Hillcrest",
+        "Price": "$690,000",
+        "Bedrooms": 4,
+        "Bathrooms": 3.5,
+        "House Size": "2,800 sqft",
+        "Description": "This beautiful 4-bedroom, 3.5-bathroom home in Hillcrest offers luxury and comfort. With high ceilings, large windows, and a grand staircase, this home is perfect for entertaining. The kitchen features granite countertops and a central island, while the master suite includes a spa-like bathroom and a private balcony.",
+        "Neighborhood Description": "Hillcrest is a prestigious community with exclusive amenities and excellent schools. Enjoy the Hillcrest Country Club and the scenic Hillcrest Trail. The community is known for its peaceful streets and friendly neighbors."
+    },
+    {
+        "ID": 13,
+        "Neighborhood": "Oakwood",
+        "Price": "$760,000",
+        "Bedrooms": 4,
+        "Bathrooms": 3,
+        "House Size": "2,700 sqft",
+        "Description": "Discover modern living in Oakwood with this spacious 4-bedroom, 3-bathroom home. Featuring a contemporary design with sleek finishes, this home offers an open floor plan, a gourmet kitchen with stainless steel appliances, and a master suite with a walk-in closet. The backyard includes a patio perfect for outdoor dining and entertainment.",
+        "Neighborhood Description": "Oakwood is a vibrant community with excellent schools, parks, and a variety of dining options. Enjoy the Oakwood Farmers' Market on weekends and explore the scenic Oakwood Trail. Convenient access to major highways makes commuting to the city effortless."
+    },
+    {
+        "ID": 14,
+        "Neighborhood": "Meadowbrook",
+        "Price": "$840,000",
+        "Bedrooms": 5,
+        "Bathrooms": 4,
+        "House Size": "3,200 sqft",
+        "Description": "This luxurious 5-bedroom, 4-bathroom home in Meadowbrook offers elegance and comfort. With high ceilings, large windows, and a grand staircase, this home is perfect for entertaining. The kitchen features granite countertops and a central island, while the master suite includes a spa-like bathroom and a private balcony.",
+        "Neighborhood Description": "Meadowbrook is known for its picturesque views and family-friendly atmosphere. The Meadowbrook Park offers outdoor activities for all ages, and the local community center hosts various events throughout the year. Excellent schools and a strong sense of community make Meadowbrook a sought-after neighborhood."
+    },
+    {
+        "ID": 15,
+        "Neighborhood": "Silver Lake",
+        "Price": "$910,000",
+        "Bedrooms": 6,
+        "Bathrooms": 5,
+        "House Size": "3,800 sqft",
+        "Description": "Experience waterfront living in this stunning 6-bedroom, 5-bathroom home in Silver Lake. With panoramic lake views, this home features an open floor plan, a gourmet kitchen, and a luxurious master suite. The expansive deck and private dock are perfect for enjoying the serene lake environment.",
+        "Neighborhood Description": "Silver Lake is a prestigious community with exclusive lake access, excellent schools, and upscale amenities. Enjoy boating, fishing, and lakeside picnics, or dine at one of the many waterfront restaurants. Silver Lake offers a perfect blend of luxury and tranquility."
+    },
+    {
+        "ID": 16,
+        "Neighborhood": "Rosewood",
+        "Price": "$670,000",
+        "Bedrooms": 3,
+        "Bathrooms": 2.5,
+        "House Size": "2,200 sqft",
+        "Description": "This charming 3-bedroom, 2.5-bathroom home in Rosewood is perfect for a growing family. The open floor plan includes a spacious living room, a modern kitchen with quartz countertops, and a master suite with a walk-in closet. The fenced backyard is ideal for children and pets.",
+        "Neighborhood Description": "Rosewood is a welcoming community with excellent schools, parks, and family-friendly activities. Enjoy the Rosewood Community Center, which offers sports programs and classes for all ages. Convenient access to shopping and dining makes Rosewood a desirable place to live."
+    },
+    {
+        "ID": 17,
+        "Neighborhood": "Kingswood",
+        "Price": "$790,000",
+        "Bedrooms": 4,
+        "Bathrooms": 3,
+        "House Size": "2,500 sqft",
+        "Description": "Welcome to this stylish 4-bedroom, 3-bathroom home in Kingswood. Features include a spacious living area, a modern kitchen with high-end appliances, and a master suite with a luxurious en-suite bathroom. The backyard patio is perfect for outdoor entertaining.",
+        "Neighborhood Description": "Kingswood is a vibrant community with excellent schools, parks, and a variety of dining options. Enjoy the Kingswood Farmers' Market on weekends and explore the scenic Kingswood Trail. Convenient access to major highways makes commuting to the city effortless."
+    },
+    {
+        "ID": 18,
+        "Neighborhood": "Highland Park",
+        "Price": "$850,000",
+        "Bedrooms": 5,
+        "Bathrooms": 4,
+        "House Size": "3,000 sqft",
+        "Description": "This elegant 5-bedroom, 4-bathroom home in Highland Park offers luxury and comfort. With high ceilings, large windows, and a grand staircase, this home is perfect for entertaining. The kitchen features granite countertops and a central island, while the master suite includes a spa-like bathroom and a private balcony.",
+        "Neighborhood Description": "Highland Park is a prestigious community with exclusive amenities and excellent schools. Enjoy the Highland Park Country Club and the scenic Highland Park Trail. The community is known for its peaceful streets and friendly neighbors."
+    },
+    {
+        "ID": 19,
+        "Neighborhood": "Pleasantville",
+        "Price": "$620,000",
+        "Bedrooms": 3,
+        "Bathrooms": 2,
+        "House Size": "1,900 sqft",
+        "Description": "Discover this charming 3-bedroom, 2-bathroom home in Pleasantville. With an open floor plan, a modern kitchen, and a master suite with a walk-in closet, this home is perfect for modern living. The backyard features a patio and lush landscaping.",
+        "Neighborhood Description": "Pleasantville is a welcoming community with excellent schools, parks, and family-friendly activities. Enjoy the Pleasantville Community Center, which offers sports programs and classes for all ages. Convenient access to shopping and dining makes Pleasantville a desirable place to live."
+    },
+    {
+        "ID": 20,
+        "Neighborhood": "Bayside",
+        "Price": "$1,050,000",
+        "Bedrooms": 6,
+        "Bathrooms": 5,
+        "House Size": "4,200 sqft",
+        "Description": "Experience waterfront living in this stunning 6-bedroom, 5-bathroom home in Bayside. With panoramic bay views, this home features an open floor plan, a gourmet kitchen, and a luxurious master suite. The expansive deck and private dock are perfect for enjoying the serene bay environment.",
+        "Neighborhood Description": "Bayside is a prestigious community with exclusive bay access, excellent schools, and upscale amenities. Enjoy boating, fishing, and bay-side picnics, or dine at one of the many waterfront restaurants. Bayside offers a perfect blend of luxury and tranquility."
+    },
+    {
+        "ID": 21,
+        "Neighborhood": "Cedar Hill",
+        "Price": "$560,000",
+        "Bedrooms": 3,
+        "Bathrooms": 2,
+        "House Size": "2,000 sqft",
+        "Description": "This charming 3-bedroom, 2-bathroom home in Cedar Hill is perfect for a growing family. The open floor plan includes a spacious living room, a modern kitchen with quartz countertops, and a master suite with a walk-in closet. The fenced backyard is ideal for children and pets.",
+        "Neighborhood Description": "Cedar Hill is a welcoming community with excellent schools, parks, and family-friendly activities. Enjoy the Cedar Hill Community Center, which offers sports programs and classes for all ages. Convenient access to shopping and dining makes Cedar Hill a desirable place to live."
+    },
+    {
+        "ID": 22,
+        "Neighborhood": "Elmwood",
+        "Price": "$830,000",
+        "Bedrooms": 4,
+        "Bathrooms": 3.5,
+        "House Size": "2,900 sqft",
+        "Description": "Step into luxury with this beautiful 4-bedroom, 3.5-bathroom home in Elmwood. Features include a formal dining room, a cozy family room with a fireplace, and a chef's kitchen with custom cabinetry. The landscaped backyard with a pool is ideal for summer gatherings.",
+        "Neighborhood Description": "Elmwood offers a suburban retreat with top-rated schools and abundant green spaces. Residents enjoy access to Elmwood Golf Course and Elmwood Shopping Center. The community is known for its peaceful streets and friendly neighbors."
+    },
+    {
+        "ID": 23,
+        "Neighborhood": "Parkview",
+        "Price": "$780,000",
+        "Bedrooms": 4,
+        "Bathrooms": 3,
+        "House Size": "2,500 sqft",
+        "Description": "Discover modern living in Parkview with this spacious 4-bedroom, 3-bathroom home. Featuring a contemporary design with sleek finishes, this home offers an open floor plan, a gourmet kitchen with stainless steel appliances, and a master suite with a walk-in closet. The backyard includes a patio perfect for outdoor dining and entertainment.",
+        "Neighborhood Description": "Parkview is a vibrant community with excellent schools, parks, and a variety of dining options. Enjoy the Parkview Farmers' Market on weekends and explore the scenic Parkview Trail. Convenient access to major highways makes commuting to the city effortless."
+    },
+    {
+        "ID": 24,
+        "Neighborhood": "Glenwood",
+        "Price": "$640,000",
+        "Bedrooms": 3,
+        "Bathrooms": 2.5,
+        "House Size": "2,100 sqft",
+        "Description": "This charming 3-bedroom, 2.5-bathroom home in Glenwood is perfect for a growing family. The open floor plan includes a spacious living room, a modern kitchen with quartz countertops, and a master suite with a walk-in closet. The fenced backyard is ideal for children and pets.",
+        "Neighborhood Description": "Glenwood is a welcoming community with excellent schools, parks, and family-friendly activities. Enjoy the Glenwood Community Center, which offers sports programs and classes for all ages. Convenient access to shopping and dining makes Glenwood a desirable place to live."
+    },
+    {
+        "ID": 25,
+        "Neighborhood": "Birchwood",
+        "Price": "$700,000",
+        "Bedrooms": 4,
+        "Bathrooms": 3.5,
+        "House Size": "2,700 sqft",
+        "Description": "This elegant 4-bedroom, 3.5-bathroom home in Birchwood offers luxury and comfort. With high ceilings, large windows, and a grand staircase, this home is perfect for entertaining. The kitchen features granite countertops and a central island, while the master suite includes a spa-like bathroom and a private balcony.",
+        "Neighborhood Description": "Birchwood is a prestigious community with exclusive amenities and excellent schools. Enjoy the Birchwood Country Club and the scenic Birchwood Trail. The community is known for its peaceful streets and friendly neighbors."
+    },
+    {
+        "ID": 26,
+        "Neighborhood": "Westwood",
+        "Price": "$860,000",
+        "Bedrooms": 5,
+        "Bathrooms": 4,
+        "House Size": "3,200 sqft",
+        "Description": "This luxurious 5-bedroom, 4-bathroom home in Westwood offers elegance and comfort. With high ceilings, large windows, and a grand staircase, this home is perfect for entertaining. The kitchen features granite countertops and a central island, while the master suite includes a spa-like bathroom and a private balcony.",
+        "Neighborhood Description": "Westwood is known for its picturesque views and family-friendly atmosphere. The Westwood Park offers outdoor activities for all ages, and the local community center hosts various events throughout the year. Excellent schools and a strong sense of community make Westwood a sought-after neighborhood."
+    }
+]
